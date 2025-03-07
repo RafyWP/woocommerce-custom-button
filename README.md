@@ -1,1 +1,1 @@
-# woocommerce-custom-button
+# WooCommerce Custom Button
